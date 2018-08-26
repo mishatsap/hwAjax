@@ -1,0 +1,78 @@
+{
+  "users": [
+  {
+    "id": 1,
+    "name": "Misha",
+    "age": "20"
+  },
+  {
+    "id": 2,
+    "name": "Masha",
+    "age": "21"
+  },
+  {
+    "id": 3,
+    "name": "Roman",
+    "age": "22"
+  },
+  {
+    "id": 4,
+    "name": "Nick",
+    "age": "23"
+  },
+  {
+    "id": 5,
+    "name": "Graham",
+    "age": "52"
+  }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "name": "name1"
+    },
+    {
+      "id": 2,
+      "name": "name2"
+    },
+    {
+      "id": 3,
+      "name": "name3"
+    },
+    {
+      "id": 4,
+      "name": "name4"
+    },
+    {
+      "id": 5,
+      "name": "name5"
+    }
+  ],
+  "products": [
+    {
+    "id": 45666,
+    "name": "confidentially1",
+    "project": "military1"
+  },
+  {
+    "id": 34876,
+    "name": "confidentially2",
+    "project": "military2"
+  },
+  {
+    "id": 17543,
+    "name": "confidentially3",
+    "project": "military3"
+  },
+  {
+    "id": 111,
+    "name": "confidentially4",
+    "project": "military4"
+  },
+  {
+    "id": 74,
+    "name": "confidentially5",
+    "project": "military5"
+  }
+  ]
+}
